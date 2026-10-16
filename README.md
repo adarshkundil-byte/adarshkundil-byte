@@ -17,7 +17,7 @@ Place this file in the repository named: adarshkundil-byte
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-m3)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshm44006@gmail.com)
 
-📍 Kerala, India · 🎯 Aspiring Cybersecurity Professional
+📍 Kerala, India · 🎯 Cybersecurity Professional
 
 </div>
 
